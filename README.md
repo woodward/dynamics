@@ -1,6 +1,6 @@
 # Dynamics
 
-**TODO: Add description**
+Rigid body dynamics of multi-body systems using various dynamical formulations. Coming soon!
 
 ## Installation
 
